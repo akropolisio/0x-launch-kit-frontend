@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/0x-launch-kit-frontend/static/css/main.d66052cb.chunk.css",
-    "main.js": "/0x-launch-kit-frontend/static/js/main.d49c6869.chunk.js",
+    "main.js": "/0x-launch-kit-frontend/static/js/main.fb0894bb.chunk.js",
     "runtime~main.js": "/0x-launch-kit-frontend/static/js/runtime~main.db191604.js",
     "static/css/2.97edab10.chunk.css": "/0x-launch-kit-frontend/static/css/2.97edab10.chunk.css",
-    "static/js/2.7a1d716d.chunk.js": "/0x-launch-kit-frontend/static/js/2.7a1d716d.chunk.js",
+    "static/js/2.bf10516d.chunk.js": "/0x-launch-kit-frontend/static/js/2.bf10516d.chunk.js",
     "index.html": "/0x-launch-kit-frontend/index.html",
-    "precache-manifest.1dabf9390bbff9681c6de830f25a366d.js": "/0x-launch-kit-frontend/precache-manifest.1dabf9390bbff9681c6de830f25a366d.js",
+    "precache-manifest.42e0bc4079830e26a8bc8d104eef9e87.js": "/0x-launch-kit-frontend/precache-manifest.42e0bc4079830e26a8bc8d104eef9e87.js",
     "service-worker.js": "/0x-launch-kit-frontend/service-worker.js",
     "static/media/erc20_logo.277e1882.svg": "/0x-launch-kit-frontend/static/media/erc20_logo.277e1882.svg",
     "static/media/erc721_logo.c85884b4.svg": "/0x-launch-kit-frontend/static/media/erc721_logo.c85884b4.svg",
