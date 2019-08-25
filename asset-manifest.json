@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/0x-launch-kit-frontend/static/css/main.d66052cb.chunk.css",
+    "main.js": "/0x-launch-kit-frontend/static/js/main.d49c6869.chunk.js",
+    "runtime~main.js": "/0x-launch-kit-frontend/static/js/runtime~main.db191604.js",
+    "static/css/2.97edab10.chunk.css": "/0x-launch-kit-frontend/static/css/2.97edab10.chunk.css",
+    "static/js/2.7a1d716d.chunk.js": "/0x-launch-kit-frontend/static/js/2.7a1d716d.chunk.js",
+    "index.html": "/0x-launch-kit-frontend/index.html",
+    "precache-manifest.1dabf9390bbff9681c6de830f25a366d.js": "/0x-launch-kit-frontend/precache-manifest.1dabf9390bbff9681c6de830f25a366d.js",
+    "service-worker.js": "/0x-launch-kit-frontend/service-worker.js",
+    "static/media/erc20_logo.277e1882.svg": "/0x-launch-kit-frontend/static/media/erc20_logo.277e1882.svg",
+    "static/media/erc721_logo.c85884b4.svg": "/0x-launch-kit-frontend/static/media/erc721_logo.c85884b4.svg",
+    "static/media/install_metamask.6d3ab03c.svg": "/0x-launch-kit-frontend/static/media/install_metamask.6d3ab03c.svg",
+    "static/media/red_exclamation_sign.bac74914.svg": "/0x-launch-kit-frontend/static/media/red_exclamation_sign.bac74914.svg"
+  }
+}
